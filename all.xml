@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 08 Dec 2021 21:47:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스 국립 자연사박물관 특별전 - 바다,미지로의 탐험 (네이버 쇼핑라이브 ─ 전시 라이브)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/337128?fm=shoppinglive&amp;sn=home</link>
+            <guid>https://shoppinglive.naver.com/livebridge/337128?fm=shoppinglive&amp;sn=home</guid>
+            <pubDate>Wed, 08 Dec 2021 21:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="VideoCard_day_2V30B">12월 9일</span><span class="VideoCard_time_1Kg7T">20:00</span>]]></content:encoded>
+            <enclosure url="https://g-selected.pstatic.net/MjAyMTExMzBfMjk0/MDAxNjM4MjMwOTI2NzU0.Y6T5hH1jpdEnlhZ8Qpluc7qrJ1n9dkEEhL8D0BopHyIg.PxgHTf98sxFDe32CiKSRe4qJcrKqb6aDi9wPLRWzUmog.JPEG/live_up1.jpg?type=f320_480_q90" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최초 대규모 <살바도르 달리전> 타임한정 50% (네이버 쇼핑라이브 ─ 전시 라이브)]]></title>
+            <link>https://shoppinglive.naver.com/livebridge/339938?fm=shoppinglive&amp;sn=home</link>
+            <guid>https://shoppinglive.naver.com/livebridge/339938?fm=shoppinglive&amp;sn=home</guid>
+            <pubDate>Wed, 08 Dec 2021 21:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="VideoCard_day_2V30B">12월 14일</span><span class="VideoCard_time_1Kg7T">20:30</span>]]></content:encoded>
+            <enclosure url="https://g-selected.pstatic.net/MjAyMTEyMDJfMTk0/MDAxNjM4NDA1MzA0NTA1.4r5qOolcmykUIjS21L_3gomyVeU948GI3vhmfvzBL1Ig.rIwwWSjKzw1PGUMFaDouG0a54vUIF3I4rN69grYzZ9gg.JPEG/live_up1.jpg?type=f320_480_q90" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
