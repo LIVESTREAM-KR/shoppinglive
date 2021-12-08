@@ -1,0 +1,9 @@
+[71526]
+title = "네이버 쇼핑라이브 ─ 전시 라이브"
+url = "https://shoppinglive.naver.com/channels/71526"
+entrySelector = "div.InfiniteScroll_wrap_1-5fM div[class='VideoCard_wrap_10Ec7 VideoCard_type_vertical_B4ux6 VideoVerticalList_item_3cGut']"
+titleSelector = "span.VideoCard_title_1Sgl6"
+linkSelector = "a.VideoCard_link_3x4f-"
+contentSelector = "time.VideoCard_airtime_127rg"
+imageSelector = "img.VideoPlayerContainer_image_SWC8-"
+waitUntil = "networkidle"
